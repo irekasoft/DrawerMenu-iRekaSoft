@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hijazi/AndroidStudioProjects/SlideBarMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/hijazi/AndroidStudioProjects/SlideBarMenu/app/build/intermediates/pre-dexed/debug/classes-3136ee466fc6cd1b35195fde3d2b3d4a98948352.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/hijazi/AndroidStudioProjects/SlideBarMenu/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-79cc02f3cd2fc9525765c657614a9676aa767f4f.jar" />
+    </item>
+    <item
+        jar="/Users/hijazi/AndroidStudioProjects/SlideBarMenu/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/hijazi/AndroidStudioProjects/SlideBarMenu/app/build/intermediates/pre-dexed/debug/classes-18f6c9a3878e0224fab87b5773aee4ffc5186047.jar" />
+    </item>
+    <item
+        jar="/Users/hijazi/AndroidStudioProjects/SlideBarMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/hijazi/AndroidStudioProjects/SlideBarMenu/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-45857af9ad67861f649b9998d4733f4376c58bcd.jar" />
+    </item>
+
+</items>
